@@ -1,0 +1,11 @@
+The original Notebook provided for this course uses an older CARTO map configuration. Since the current CARTO service now requires an API key for certain map styles, the original code could not display these maps directly.
+To complete the map visualizations in this lab, I used a personally issued CARTO API key. For security and privacy reasons, the API key was disabled/revoked before the final upload of this Notebook. As a result, some CARTO-based maps may no longer load directly after submission.
+If the instructor or teaching assistant needs to verify the use of the API key, please contact me at:
+UC32836@umac.mo
+
+由于本课程提供的原始 Notebook 使用的是旧版 CARTO 地图调用方式，而当前版本的 CARTO 已要求使用 API Key，因此原始代码无法直接正常显示部分地图样式。
+为完成本实验中的地图可视化，我使用了个人申请的 CARTO API Key。出于安全和隐私考虑，在最终上传此 Notebook 前，我已经关闭/撤销了该 API Key，因此上传后的 Notebook 中相关地图可能无法再次直接加载。
+如课程教师或助教需要对 API Key 的使用情况进行查证，请联系我的邮箱：
+UC32836@umac.mo
+
+Thank you!
