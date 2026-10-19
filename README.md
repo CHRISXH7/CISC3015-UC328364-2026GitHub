@@ -17,6 +17,21 @@ The [assignment folder](cisc3015-Assgn01-2026-UC328364/) contains my course note
 | [Module 05](cisc3015-Assgn01-2026-UC328364/Module%2005/) | Model evaluation and refinement | Used cars and laptop pricing |
 | [Module 06](cisc3015-Assgn01-2026-UC328364/Module%2006/) | Project challenge | Insurance cost and house pricing |
 
+## Assignment 02
+
+The [Assignment 02 folder](cisc3015-Assgn02-2026-UC328364/) contains data visualization notebooks, zipped Dash projects, supporting datasets, and notes. Screenshots are handled separately in the corresponding Moodle forums. Where both a ZIP and an extracted project folder existed, only the ZIP is included.
+
+| Module | Topic |
+| --- | --- |
+| [Module 01](cisc3015-Assgn02-2026-UC328364/Module%2001/) | Dataset exploration, preprocessing, Matplotlib, and line plots |
+| [Module 02](cisc3015-Assgn02-2026-UC328364/Module%2002/) | Basic and specialized visualization tools |
+| [Module 03](cisc3015-Assgn02-2026-UC328364/Module%2003/) | Advanced visualizations and geospatial data |
+| [Module 04](cisc3015-Assgn02-2026-UC328364/Module%2004/) | Plotly basics and Dash dashboards |
+| [Module 05 Practice](cisc3015-Assgn02-2026-UC328364/Module%2005/PracticeProj/) | Australian wildfire analysis and dashboard |
+| [Module 05 Final](cisc3015-Assgn02-2026-UC328364/Module%2005/FinalProj/) | Final visualizations and dashboard |
+
+Module 04 Lab 01 is supplied as `.ipynb.zip` because its original notebook exceeds the browser upload limit. Extract the ZIP to obtain the complete, unchanged notebook.
+
 ## Viewing and running the notebooks
 
 Open the `.ipynb` files to view the saved code and outputs. To run them locally, use Jupyter Notebook through Anaconda and follow the setup and dataset instructions inside each notebook.
